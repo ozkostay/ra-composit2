@@ -1,0 +1,18 @@
+.searchbar {
+  width: 85%;
+  /* border: none;
+  outline: 3px solid #ffd85d; */
+}
+
+.input,button {
+  border: none;
+  outline: 3px solid #ffd85d;
+}
+
+.input {
+  width: 90%;
+}
+
+.button {
+  background-color: #ffd85d;
+}

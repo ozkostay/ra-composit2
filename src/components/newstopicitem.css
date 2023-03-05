@@ -1,0 +1,7 @@
+.newstopicitem {
+  display: block;
+  border: 1px solid black;
+  color: #0b58b4;
+  font-weight: bold;
+  padding: 5px;
+}
