@@ -1,9 +1,9 @@
 import Squearcontent from './squearcontent';
 import './squearitem.css';
 
-export default function Squearitem() {
+export default function Squearitem({item}) {
   
   return <div className="squearitem">
-    <Squearcontent />
+    <Squearcontent item={item}/>
   </div>
 }
